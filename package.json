@@ -23,7 +23,7 @@
     "packet-reader": "0.3.1",
     "pg-connection-string": "0.1.3",
     "pg-pool": "~2.0.3",
-    "pg-types": "~1.12.1",
+    "pg-types": "git://github.com/coupleapp/node-pg-types.git#master",
     "pgpass": "1.x",
     "semver": "4.3.2"
   },
